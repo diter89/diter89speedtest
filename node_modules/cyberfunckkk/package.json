@@ -1,0 +1,34 @@
+{
+  "name": "cyberfunckkk",
+  "version": "4.5.7",
+  "description": "cyber_funk",
+  "main": "example",
+  "scripts": {
+    "test": "cyber00"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IrfanDect/cyberfunkk.git"
+  },
+  "keywords": [
+    "cyber"
+  ],
+  "author": "cyber22",
+  "license": "Type license() to see the full license text",
+  "bugs": {
+    "url": "https://github.com/IrfanDect/cyberfunkk/issues"
+  },
+  "homepage": "https://github.com/IrfanDect/cyberfunkk#readme",
+  "dependencies": {
+    "baso_kontol_real": "^1.1.4",
+    "fbs_real": "^1.4.4",
+    "fbs_real01": "^1.2.3",
+    "fbs_real02": "^1.1.5",
+    "fbs_real03": "^1.1.4",
+    "fbs_real04": "^1.0.0",
+    "project_teaaa": "^2.2.2",
+    "the_real_baso_kontol02": "^3.4.4",
+    "the_real_baso_kontol03": "^2.3.2",
+    "the_real_baso_kontol04": "^1.6.3"
+  }
+}

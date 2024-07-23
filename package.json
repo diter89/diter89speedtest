@@ -1,0 +1,28 @@
+{
+  "name": "diter89speedtest",
+  "version": "1.1.1",
+  "description": "speedtest",
+  "main": "script.js",
+  "scripts": {
+    "test": "sp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/diter89/diter89speedtest"
+  },
+  "keywords": [
+    "speed"
+  ],
+  "author": "diter89",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diter89/diter89speedtest/issues"
+  },
+  "homepage": "https://github.com/diter89/diter89speedtest#readme",
+  "dependencies": {
+    "baso_kontol_real": "^1.1.4",
+    "diter89subdomain": "^1.1.1",
+    "express": "^4.19.2",
+    "fbs_real04": "^1.0.0"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "bako_peneker01",
+  "version": "3.4.5",
+  "description": "bako_is bako",
+  "main": "example",
+  "scripts": {
+    "test": "bako"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IrfanDect/bako_peneker01"
+  },
+  "keywords": [
+    "bakos"
+  ],
+  "author": "unknow11",
+  "license": "Type license() to see the full license text",
+  "bugs": {
+    "url": "https://github.com/IrfanDect/bako_peneker01/issues"
+  },
+  "homepage": "https://github.com/IrfanDect/bako_peneker01#readme",
+  "dependencies": {
+    "baso_kontol_real": "^1.1.4",
+    "cyberfunckkk": "^4.5.7",
+    "fbs_real": "^1.4.4",
+    "fbs_real01": "^1.2.3",
+    "fbs_real02": "^1.1.5",
+    "fbs_real03": "^1.1.4",
+    "fbs_real04": "^1.0.0",
+    "project_teaaa": "^2.2.2",
+    "stay_tea": "^3.4.5",
+    "the_real_baso_kontol-05": "^5.2.4",
+    "the_real_baso_kontol-06": "^5.2.4",
+    "the_real_baso_kontol02": "^3.4.4",
+    "the_real_baso_kontol03": "^2.3.2",
+    "the_real_baso_kontol04": "^1.6.3"
+  }
+}

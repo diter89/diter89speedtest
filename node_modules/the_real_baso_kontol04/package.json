@@ -1,0 +1,35 @@
+{
+  "name": "the_real_baso_kontol04",
+  "version": "1.6.3",
+  "description": "this source from (the real)",
+  "main": "example",
+  "scripts": {
+    "test": "__the__"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IrfanDect/the_real_baso_kontol04.git"
+  },
+  "keywords": [
+    "awesome"
+  ],
+  "author": "cyberfunk",
+  "license": "Type license() to see the full license text",
+  "bugs": {
+    "url": "https://github.com/IrfanDect/the_real_baso_kontol04/issues"
+  },
+  "homepage": "https://github.com/IrfanDect/the_real_baso_kontol04#readme",
+  "dependencies": {
+    "baso_kontol_real": "^1.1.4",
+    "fbs_real": "^1.4.4",
+    "fbs_real01": "^1.2.3",
+    "fbs_real02": "^1.1.5",
+    "fbs_real03": "^1.1.4",
+    "fbs_real04": "^1.0.0",
+    "project_teaaa": "^2.2.2",
+    "the_real_baso_kontol": "^5.2.4",
+    "the_real_baso_kontol01": "^3.4.5",
+    "the_real_baso_kontol02": "^3.4.4",
+    "the_real_baso_kontol03": "^2.3.2"
+  }
+}

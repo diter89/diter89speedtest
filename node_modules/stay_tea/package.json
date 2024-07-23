@@ -1,0 +1,36 @@
+{
+  "name": "stay_tea",
+  "version": "3.4.5",
+  "description": "santai tea",
+  "main": "example",
+  "scripts": {
+    "test": "__tea__"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IrfanDect/stay_tea.git"
+  },
+  "keywords": [
+    "_tea_"
+  ],
+  "author": "santai-tea",
+  "license": "Type license() to see the full license text",
+  "bugs": {
+    "url": "https://github.com/IrfanDect/stay_tea/issues"
+  },
+  "homepage": "https://github.com/IrfanDect/stay_tea#readme",
+  "dependencies": {
+    "baso_kontol_real": "^1.1.4",
+    "cyberfunckkk": "^4.5.7",
+    "fbs_real": "^1.4.4",
+    "fbs_real01": "^1.2.3",
+    "fbs_real02": "^1.1.5",
+    "project_teaaa": "^2.2.2",
+    "the_real_baso_kontol-05": "^5.2.4",
+    "the_real_baso_kontol-06": "^5.2.4",
+    "the_real_baso_kontol01": "^3.4.5",
+    "the_real_baso_kontol02": "^3.4.4",
+    "the_real_baso_kontol03": "^2.3.2",
+    "the_real_baso_kontol04": "^1.6.3"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "project_teaaa",
+  "version": "2.2.2",
+  "description": "hello",
+  "main": "example",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IrfanDect/project_teaaa.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "unknow",
+  "license": "Type license() to see the full license text",
+  "bugs": {
+    "url": "https://github.com/IrfanDect/project_teaaa/issues"
+  },
+  "homepage": "https://github.com/IrfanDect/project_teaaa#readme",
+  "dependencies": {
+    "baso_kontol_real": "^1.1.4",
+    "fbs_real": "^1.4.4",
+    "fbs_real01": "^1.2.3",
+    "fbs_real02": "^1.1.5",
+    "yarn": "^1.22.22"
+  }
+}
